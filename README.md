@@ -41,8 +41,7 @@ This project automates KPI calculation and dashboard generation in Google Sheets
 
 ## 📸 Preview
 
-> _(Optional: Add screenshots or a GIF of the dashboard here)_  
-> You can use `Snipping Tool` or `Lightshot` to take screenshots.
+![KPI Dashboard](images/kpi_dashboard_preview.png)
 
 ---
 
