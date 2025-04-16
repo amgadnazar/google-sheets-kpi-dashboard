@@ -1,0 +1,101 @@
+Order ID,Order Date,Product,Quantity,Price Each,City,Customer Email
+8270,06-05-2023,Headphones,1,788.71,Los Angeles,customer0@example.com
+1860,24-08-2023,Headphones,3,849.81,Los Angeles,customer1@example.com
+6390,27-12-2023,Laptop,2,960.06,Chicago,customer2@example.com
+6191,19-06-2023,Mouse,4,1070.76,New York,customer3@example.com
+6734,11-10-2023,Monitor,3,422.14,Houston,customer4@example.com
+7265,08-01-2023,Keyboard,3,466.31,Los Angeles,customer5@example.com
+1466,01-01-2023,Phone,2,135.43,Phoenix,customer6@example.com
+5426,15-01-2023,Mouse,1,704.48,Los Angeles,customer7@example.com
+6578,24-11-2023,Mouse,2,67.23,Phoenix,customer8@example.com
+9322,17-02-2023,Headphones,1,572.08,Chicago,customer9@example.com
+2685,06-04-2023,Laptop,4,662.61,Phoenix,customer10@example.com
+1769,30-01-2023,Laptop,3,361.69,Houston,customer11@example.com
+7949,14-10-2023,Keyboard,4,719.23,New York,customer12@example.com
+3433,21-02-2023,Headphones,1,60.84,Phoenix,customer13@example.com
+6311,24-11-2023,Mouse,1,68.88,Phoenix,customer14@example.com
+6051,31-05-2023,Monitor,4,991.56,New York,customer15@example.com
+7420,07-10-2023,Headphones,1,448.22,Houston,customer16@example.com
+2184,03-07-2023,Keyboard,4,174.3,Los Angeles,customer17@example.com
+5555,16-08-2023,Keyboard,3,638.64,Phoenix,customer18@example.com
+4385,16-12-2023,Headphones,4,929.74,New York,customer19@example.com
+7396,07-07-2023,Keyboard,3,278.59,Chicago,customer20@example.com
+9666,16-12-2023,Headphones,4,756.9,New York,customer21@example.com
+3558,12-01-2023,Phone,1,125.28,Chicago,customer22@example.com
+8849,08-12-2023,Headphones,4,85.73,Houston,customer23@example.com
+3047,22-03-2023,Headphones,1,649.34,Los Angeles,customer24@example.com
+3747,21-02-2023,Keyboard,4,660.25,New York,customer25@example.com
+1189,04-06-2023,Keyboard,4,773.98,Phoenix,customer26@example.com
+3734,13-04-2023,Laptop,2,878.16,Houston,customer27@example.com
+4005,09-05-2023,Laptop,1,1171.63,New York,customer28@example.com
+5658,14-02-2023,Phone,2,631.65,Phoenix,customer29@example.com
+2899,24-04-2023,Laptop,1,404.47,New York,customer30@example.com
+8734,15-09-2023,Headphones,2,959.34,Chicago,customer31@example.com
+2267,02-08-2023,Keyboard,3,343.23,New York,customer32@example.com
+2528,09-11-2023,Laptop,4,540.79,New York,customer33@example.com
+4556,10-04-2023,Laptop,1,117.19,New York,customer34@example.com
+4890,27-08-2023,Phone,1,54.79,Houston,customer35@example.com
+9838,31-05-2023,Mouse,4,1156.11,New York,customer36@example.com
+6393,11-06-2023,Phone,1,1007.28,Phoenix,customer37@example.com
+9792,13-08-2023,Headphones,1,842.77,Chicago,customer38@example.com
+9433,25-07-2023,Keyboard,2,505.52,Chicago,customer39@example.com
+8513,19-01-2023,Phone,1,228.62,New York,customer40@example.com
+3612,10-04-2023,Laptop,3,208.81,Houston,customer41@example.com
+8041,10-04-2023,Keyboard,3,319.04,Houston,customer42@example.com
+7235,08-06-2023,Keyboard,4,670.34,Phoenix,customer43@example.com
+6486,02-11-2023,Laptop,1,864.65,New York,customer44@example.com
+8099,17-04-2023,Phone,4,800.73,Chicago,customer45@example.com
+1775,13-08-2023,Laptop,3,353.92,Houston,customer46@example.com
+9226,30-09-2023,Mouse,1,1146.97,New York,customer47@example.com
+4152,01-12-2023,Keyboard,1,892.03,Houston,customer48@example.com
+2585,20-11-2023,Monitor,4,676.37,Houston,customer49@example.com
+4943,13-08-2023,Monitor,3,743.77,Chicago,customer50@example.com
+8555,19-12-2023,Headphones,1,518.03,Los Angeles,customer51@example.com
+4073,01-01-2023,Laptop,4,316.08,Phoenix,customer52@example.com
+2021,06-04-2023,Laptop,3,443.27,Phoenix,customer53@example.com
+4843,13-08-2023,Headphones,4,915.47,Chicago,customer54@example.com
+8989,07-10-2023,Headphones,2,41.91,Houston,customer55@example.com
+7873,08-01-2023,Headphones,1,161.39,New York,customer56@example.com
+6675,11-09-2023,Keyboard,2,79.05,Houston,customer57@example.com
+1161,19-09-2023,Mouse,3,72.86,Chicago,customer58@example.com
+5297,06-04-2023,Laptop,2,1030.17,Phoenix,customer59@example.com
+1995,30-01-2023,Keyboard,2,851.8,Houston,customer60@example.com
+8629,13-08-2023,Headphones,3,582.15,Phoenix,customer61@example.com
+2016,13-05-2023,Laptop,4,139.96,New York,customer62@example.com
+8869,19-12-2023,Keyboard,2,602.65,Phoenix,customer63@example.com
+7439,03-07-2023,Mouse,4,581.33,Phoenix,customer64@example.com
+8892,08-06-2023,Keyboard,2,228.51,Los Angeles,customer65@example.com
+7863,26-03-2023,Mouse,4,534.78,Los Angeles,customer66@example.com
+8916,14-10-2023,Headphones,3,493.24,Los Angeles,customer67@example.com
+9529,02-08-2023,Mouse,2,748.62,Phoenix,customer68@example.com
+1878,24-04-2023,Laptop,3,771.24,Chicago,customer69@example.com
+5887,16-12-2023,Headphones,2,78.23,Phoenix,customer70@example.com
+5859,16-11-2023,Laptop,3,465.17,Chicago,customer71@example.com
+7331,07-07-2023,Monitor,3,760.39,Chicago,customer72@example.com
+9571,13-08-2023,Phone,2,616.19,Los Angeles,customer73@example.com
+9684,29-07-2023,Mouse,2,1031.38,Houston,customer74@example.com
+8208,07-07-2023,Phone,2,798.97,New York,customer75@example.com
+6276,10-02-2023,Phone,1,216.45,Los Angeles,customer76@example.com
+3062,20-05-2023,Mouse,4,107.92,Los Angeles,customer77@example.com
+1064,04-01-2023,Headphones,1,779.84,Houston,customer78@example.com
+9006,08-01-2023,Monitor,1,56.15,New York,customer79@example.com
+3568,22-07-2023,Laptop,3,713.29,Phoenix,customer80@example.com
+6463,22-10-2023,Keyboard,2,1129.77,Phoenix,customer81@example.com
+3027,02-08-2023,Laptop,4,701.18,Los Angeles,customer82@example.com
+3695,04-01-2023,Keyboard,3,481.1,New York,customer83@example.com
+6258,04-01-2023,Laptop,1,780.86,Los Angeles,customer84@example.com
+6618,01-12-2023,Mouse,2,563.45,Chicago,customer85@example.com
+7736,14-07-2023,Monitor,3,666.1,Los Angeles,customer86@example.com
+1391,13-11-2023,Keyboard,2,1131.22,Los Angeles,customer87@example.com
+6892,16-12-2023,Headphones,3,478.67,Phoenix,customer88@example.com
+4561,19-12-2023,Laptop,2,1154.4,Phoenix,customer89@example.com
+7184,01-01-2023,Laptop,1,1088.79,Phoenix,customer90@example.com
+4099,08-03-2023,Keyboard,4,255.05,Chicago,customer91@example.com
+7278,04-01-2023,Headphones,1,106.5,Phoenix,customer92@example.com
+9392,11-07-2023,Headphones,4,143.41,New York,customer93@example.com
+4104,08-06-2023,Mouse,2,46.41,Houston,customer94@example.com
+8215,24-11-2023,Mouse,3,135.97,New York,customer95@example.com
+3454,24-04-2023,Mouse,1,827.53,New York,customer96@example.com
+9996,11-09-2023,Mouse,4,108.65,Phoenix,customer97@example.com
+3731,24-04-2023,Mouse,1,399.8,Houston,customer98@example.com
+9154,04-09-2023,Mouse,4,1017.73,Houston,customer99@example.com
